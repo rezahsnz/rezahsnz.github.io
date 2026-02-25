@@ -1,0 +1,30 @@
+# [[entries]]
+# title = "A virtual notebook to investigate computing. Themes:"
+
+#   [[entries.entries]]
+#   title = "Verifiable computing aka ZKPs"
+
+#   [[entries.entries]]
+#   title = "github"
+
+# [[entries]]
+# title = "all posts"
+
+#   [entries.post_list]
+#   limit = 5
+#   show_more = true
+#   show_more_text = "More..."
+#   show_more_url = "posts"
+
+[[entries]]
+title = "Posts by category"
+
+  [entries.post_list]
+  section = "posts"
+  show_more = true
+  show_more_text = "See more posts..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "RSS"
+url = "index.xml"
