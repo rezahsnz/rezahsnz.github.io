@@ -1,0 +1,4 @@
+baseURL = 'rezahsnz.github.io'
+languageCode = 'en-us'
+title = 'On Computers'
+theme = 'nostyleplease'
