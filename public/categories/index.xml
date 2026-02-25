@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on On Computers</title>
-    <link>//localhost:44421/categories/</link>
+    <link>rezahsnz.github.io/categories/</link>
     <description>Recent content in Categories on On Computers</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:44421/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="rezahsnz.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
